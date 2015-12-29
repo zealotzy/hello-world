@@ -1,2 +1,2 @@
 # hello-world
-Try github in a nomal way
+Try github in a normal way
